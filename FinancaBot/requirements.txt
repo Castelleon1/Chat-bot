@@ -1,0 +1,5 @@
+chatterbot
+flask
+spacy
+pytz
+

@@ -1,0 +1,39 @@
+{
+    "conversas": [
+        {
+            "mensagens": [
+                "oi", 
+                "olá", 
+                "tudo bem?", 
+                "como vai?",
+                "oi, tudo bem?",
+                "olá, como vai?"
+            ],
+            "resposta": "Olá! Eu sou o FinancaBot, seu assistente pessoal de finanças. Posso ajudar com saldo, despesas, relatórios e investimentos." 
+        },
+        {
+            "mensagens": [
+                "bom dia", 
+                "Olá, bom dia", 
+                "oi, bom dia"
+            ],
+            "resposta": "Bom dia! Sou o FinancaBot. Vamos organizar suas contas hoje?"
+        },
+        {
+            "mensagens": [
+                "boa tarde", 
+                "Olá, boa tarde", 
+                "oi, boa tarde"
+            ],
+            "resposta": "Boa tarde! Sou o FinancaBot. Precisa verificar algum gasto?"
+        },
+        {
+            "mensagens": [
+                "boa noite", 
+                "Olá, boa noite", 
+                "oi, boa noite"
+            ],
+            "resposta": "Boa noite! Sou o FinancaBot. Estou pronto para ajudar com suas finanças."
+        }
+    ]
+}

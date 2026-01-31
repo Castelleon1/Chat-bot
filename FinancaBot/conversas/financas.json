@@ -1,0 +1,52 @@
+{
+    "conversas": [
+        {
+            "mensagens": [
+                "qual é o meu saldo?",
+                "verificar saldo disponível",
+                "qual meu saldo disponível",
+                "quanto eu tenho na conta?",
+                "meu saldo"
+            ],
+            "resposta": "Seu saldo atual disponível é de R$ 1.750,00."
+        },
+        {
+            "mensagens": [
+                "registrar nova despesa",
+                "registrar despesa",
+                "fiz uma compra",
+                "gastei dinheiro",
+                "quero registrar um gasto"
+            ],
+            "resposta": "Ok, anotei aqui. Despesa registrada com sucesso!"
+        },
+        {
+            "mensagens": [
+                "gerar relatório financeiro",
+                "me mostre o relatório de gastos",
+                "quero um relatório das minhas despesas",
+                "resumo do mês",
+                "balanço geral"
+            ],
+            "resposta": "Aqui está seu relatório: Despesas totais R$ 1.250,00 | Receitas R$ 3.000,00 | Saldo Líquido R$ 1.750,00."
+        },
+        {
+            "mensagens": [
+                "mostrar investimentos",
+                "qual o status dos meus investimentos",
+                "como estão meus investimentos",
+                "rendimentos",
+                "minhas aplicações"
+            ],
+            "resposta": "Status dos seus investimentos hoje: Ações +5%, Tesouro Direto +0.7%, Criptoativos -2.1%."
+        },
+        {
+            "mensagens": [
+                "como posso poupar dinheiro?",
+                "dicas para economizar",
+                "me dê dicas de poupança"
+            ],
+            "resposta": "Dica do FinancaBot: Tente a regra 50-30-20. 50% para necessidades, 30% para desejos e 20% para poupança/investimentos."
+        }
+    ]
+}
